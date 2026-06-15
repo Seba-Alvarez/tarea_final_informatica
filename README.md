@@ -54,7 +54,7 @@ El contenido de este repositorio se distribuye únicamente con fines educativos 
 
 El recurso se encuentra disponible en:
 
-RECORDAR PEGAR URL
+[Link al recurso](https://seba-alvarez.github.io/tarea_final_informatica/index.html)
 
 ## Objetivo
 
